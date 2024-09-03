@@ -1,4 +1,4 @@
-import { useSteps, Stepper, Step,Text,CardBody, StepIndicator, StepStatus, StepIcon, StepNumber, Box,StepTitle, StepDescription, StepSeparator, Card, Center } from "@chakra-ui/react";
+import { useSteps, Stepper, Step,Text,CardBody, StepIndicator, StepStatus, StepIcon, StepNumber, Box, StepSeparator, Card, Center } from "@chakra-ui/react";
 import materitext from '../assets/materitext.png'
 import materivideo from '../assets/videobelajar.jpeg'
 import quiz from '../assets/quiz.png'
